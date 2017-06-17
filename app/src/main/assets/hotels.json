@@ -1,0 +1,50 @@
+{
+   "hotels" : [
+      {
+         "details" : "Hotel ALL IZ WELL, Paharganj, Delhi, India"
+      },
+      {
+         "details" : "New Haven Hotel, Greater Kailash, Delhi, India"
+      },
+      {
+         "details" : "Eros, Nehru Place, New Delhi, Delhi, India"
+      },
+      {
+         "details" : "SK Premium Park, Janak Puri, New Delhi, Delhi, India"
+      },
+      {
+         "details" : "The Suryaa Hotel, Nehru Place, New Delhi, Delhi, India"
+      },
+      {
+         "details" : "James Hotel, Sector 17, Chandigarh, India"
+      },
+      {
+         "details" : "Hotel Sapphire, Zirakpur, Chandigarh, India"
+      },
+      {
+         "details" : "Piccadily, Sector 22, Chandigarh, India"
+      },
+      {
+         "details" : "Clarion Inn, Zirakpur, Chandigarh, India"
+      },
+      {
+         "details" : "Hotel Oyster, Sector 17, Chandigarh, India"
+      },
+      {
+         "details" : "The Majestic Crown, Zirakpur, Chandigarh, India"
+      },
+      {
+         "details" : "The Ambassador Marine Drive, Marine Lines, Mumbai, India"
+      },
+      {
+         "details" : "Apple Suites, Mumbai Airport, Mumbai, India"
+      },
+      {
+         "details" : "Dragonfly Hotel, Mumbai Airport, Mumbai, India"
+      },
+      {
+         "details" : "The International by Tunga, Andheri, Mumbai, India"
+      }
+   ],
+   "status" : "OK"
+}
